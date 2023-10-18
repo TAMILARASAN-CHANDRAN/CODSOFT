@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+ul,li,h3 {
+    display: inline-block;
+}
+ul{
+    padding:15px;
+    margin-left: 65%;
+    border-style: double;
+    border-width: 3.5px;
+    border-color: black ;
+
+}
+a:hover{
+    color: red;
+    cursor: pointer;
+}
+img{
+    margin-left: 30%;
+    
+}
+
+.box{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    display: inline-block;
+    padding: 20px;
+    margin: 25px;
+
+}
+.hori{
+    color: black;
+    padding: 2.5px;
+    margin: 3px;
+}
+.picc{
+    margin-left: 40%;
+        
+}
+h6{
+    margin-right: 5%;
+    display: inline;
+
+    text-align: right;
+}

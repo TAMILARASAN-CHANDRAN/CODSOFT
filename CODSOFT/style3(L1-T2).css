@@ -1,0 +1,16 @@
+.hori{
+    color: black;
+    padding: 2px;
+    margin: 3px;
+}
+td{
+    padding: 5px;
+    margin: 10px;
+}
+a:hover{
+    color: red;
+    cursor: pointer;
+}
+a{
+    padding: 10px;
+}
